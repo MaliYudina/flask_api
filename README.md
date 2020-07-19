@@ -5,8 +5,6 @@ Simple Flask web application with api functions
 
 git clone https://github.com/MaliYudina/flask_api.git
 
-cd webtrap
-
 pip install -r requirements.txt
 
 To define the application you may need to export the path:
