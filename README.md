@@ -3,7 +3,7 @@ Simple Flask web application with api functions
 
 **To install the project:**
 
-git clone https://github.com/MaliYudina/flask_webtrap.git
+git clone https://github.com/MaliYudina/flask_api.git
 
 cd webtrap
 
